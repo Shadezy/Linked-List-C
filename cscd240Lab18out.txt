@@ -1,0 +1,80 @@
+Enter name of file: input/words.txt
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+1
+b-1, babble-6, babe-4, babel-5, baboon-6, babushka-8, baby-4, baccalaureate-13, bacchanalia-11, bachelor-8, bacillus-8, back-4, a-1, aardvark-8, aback-5, abacus-6, abaft-5, abalone-7, abandon-7, abandoned-9, abase-5, abash-5, abate-5, azure-5,
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+2
+Please enter a word: first
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+3
+Please enter a word: last
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+1
+first-5, b-1, babble-6, babe-4, babel-5, baboon-6, babushka-8, baby-4, baccalaureate-13, bacchanalia-11, bachelor-8, bacillus-8, back-4, a-1, aardvark-8, aback-5, abacus-6, abaft-5, abalone-7, abandon-7, abandoned-9, abase-5, abash-5, abate-5, azure-5, last-4,
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+4
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+1
+a-1, aardvark-8, aback-5, abacus-6, abaft-5, abalone-7, abandon-7, abandoned-9, abase-5, abash-5, abate-5, azure-5, b-1, babble-6, babe-4, babel-5, baboon-6, babushka-8, baby-4, baccalaureate-13, bacchanalia-11, bachelor-8, bacillus-8, back-4, first-5, last-4,
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+5
+Please enter a word: baby
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+1
+a-1, aardvark-8, aback-5, abacus-6, abaft-5, abalone-7, abandon-7, abandoned-9, abase-5, abash-5, abate-5, azure-5, b-1, babble-6, babe-4, babel-5, baboon-6, babushka-8, baccalaureate-13, bacchanalia-11, bachelor-8, bacillus-8, back-4, first-5, last-4,
+Please choose from the options below:
+(1) Print
+(2) addFirst
+(3) addLast
+(4) Sort
+(5) Delete a word
+(6) Quit
+6

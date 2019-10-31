@@ -1,0 +1,9 @@
+==14718==
+==14718== HEAP SUMMARY:
+==14718==     in use at exit: 0 bytes in 0 blocks
+==14718==   total heap usage: 83 allocs, 83 frees, 1,634 bytes allocated
+==14718==
+==14718== All heap blocks were freed -- no leaks are possible
+==14718==
+==14718== For counts of detected and suppressed errors, rerun with: -v
+==14718== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
